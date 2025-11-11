@@ -1,0 +1,25 @@
+# Jekyll build output
+_site/
+.sass-cache/
+
+# ignore log files and temp files.
+*.log
+*.tmp
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ruby/Bundler
+.bundle/
+vendor/
+
+# Other common ignores
+node_modules/

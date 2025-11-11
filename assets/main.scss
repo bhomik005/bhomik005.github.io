@@ -1,0 +1,28 @@
+---
+---
+@import "minima";
+
+/* Typography tweaks */
+body {
+  font-size: 14px;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+/* Smaller code font sizes */
+pre,
+code,
+kbd,
+samp {
+  font-size: 1.0em;
+}
+
+.highlighter-rouge,
+.highlight pre,
+pre.highlight {
+  font-size: 0.9em;
+}
+
+

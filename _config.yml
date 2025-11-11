@@ -1,0 +1,9 @@
+title: Derivatives & Opcodes
+description: Projects and learnings in languages, interpreters, and systems.
+author:
+  name: Bhomik Kinger
+theme: minima
+header_pages:
+  - projects.md
+  - learnings.md
+  - resume.md
